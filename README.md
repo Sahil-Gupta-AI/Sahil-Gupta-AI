@@ -38,19 +38,8 @@ I'm Sahil — a software developer and AI enthusiast who loves building practica
 *(Customize with actual achievements)*
 
 ## 📫 How to reach me
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
-- Twitter: https://twitter.com/your-handle
+- Email: sahilhac11518@gmail.com
+- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sahil-gupta-653bb0345/)
 
-*(Replace with real contact links)*
 
-## ⚙️ How to use this README
-1. Create a new repository named `Sahil-Gupta-AI` (exactly your username).
-2. Add this file as `README.md` in the repository root.
-3. Commit and push — the README will show on your GitHub profile.
 
----
-If you want, I can:
-- Auto-fill projects, skills, and stats from your public profile (share the profile URL).
-- Generate badges for your top languages and tools.
-- Create personalized short descriptions for each featured repo.
