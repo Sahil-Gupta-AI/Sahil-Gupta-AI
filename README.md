@@ -1,45 +1,208 @@
-# Hi there, I'm Sahil 👋
+# 🚀 Sahil Gupta
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Sahil-Gupta-AI&color=brightgreen)](https://github.com/Sahil-Gupta-AI)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Developer;Full+Stack+Engineer;Agent-Based+Modeling+Enthusiast;Future+GSoC+Contributor" />
+</p>
 
-I'm Sahil — a software developer and AI enthusiast who loves building practical applications, exploring machine learning, and automating workflows.
+---
 
-## 🔭 About Me
-- 🔬 I work on AI/ML projects, backend services, and developer tools.
-- 🌱 I’m currently learning advanced deployment patterns and model optimization.
-- 💬 Ask me about Python, TypeScript, machine learning, or cloud infra.
-- ⚡ Fun fact: I enjoy turning ideas into experiments and shipping small, useful projects.
+# 👋 About Me
 
-## 🔧 Tech Stack
-- Languages: Python • TypeScript • JavaScript
-- ML / Data: PyTorch • TensorFlow • scikit-learn • pandas
-- Backend: FastAPI • Node.js • Flask
-- Cloud / DevOps: Docker • GitHub Actions • AWS / GCP
-- Databases: PostgreSQL • Redis
+I am a **Software Developer and AI/ML Engineer** passionate about building intelligent systems and contributing to open source.
 
-*(Update the list above to match your real stack)*
+My primary interests include:
 
-## ✨ Featured Projects
-- [Project A](https://github.com/Sahil-Gupta-AI/project-a) — Short one-liner describing what it does and why it’s useful.
-- [Project B](https://github.com/Sahil-Gupta-AI/project-b) — Short one-liner describing this project.
-- [Project C](https://github.com/Sahil-Gupta-AI/project-c) — Short one-liner and notable tech used.
+- Agent-Based Modeling (Mesa)
+- Machine Learning Systems
+- Backend Engineering
+- Real-world AI Applications
 
-*(Replace with your top repositories and short descriptions)*
+I focus on building **production-ready projects**, not just tutorials.
 
-## 📈 GitHub Stats
-<!-- You can add your real GitHub stats here using services like https://github-readme-stats.vercel.app/ -->
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil-Gupta-AI&show_icons=true&theme=tokyonight)
+---
 
-## 🏆 Highlights
-- Built and shipped multiple production services that handle X traffic / Y users.
-- Published data/ML experiments and reproducible notebooks.
-- Contributor to open-source tools related to ML and automation.
+# 🎯 Current Focus
 
-*(Customize with actual achievements)*
+- 📊 Stock Market Modeling using Mesa  
+- 🤖 Machine Learning Systems  
+- ⚙️ FastAPI and Backend Architecture  
+- ☁️ Deployment and MLOps  
 
-## 📫 How to reach me
-- Email: sahilhac11518@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sahil-gupta-653bb0345/)
+---
 
+# 🧠 Technical Skills
 
+## Languages
 
+Python • JavaScript • TypeScript • SQL  
+
+## Machine Learning
+
+scikit-learn • pandas • NumPy • NLP • Model Training  
+
+## Backend
+
+FastAPI • Node.js • Express  
+
+## Frontend
+
+React • HTML • CSS • Streamlit  
+
+## Database
+
+MongoDB • PostgreSQL  
+
+## Tools
+
+Git • GitHub • Docker • Linux  
+
+---
+
+# 🌟 Featured Projects
+
+---
+
+# 🎬 FilmFusion – Movie Recommendation System
+
+🔗 Live Demo  
+https://movie-recommendation-system-8iue.onrender.com/
+
+## Highlights
+
+- Content-based recommendation engine  
+- TMDb API integration  
+- Real-time recommendations  
+- Deployed production application  
+
+## Tech Stack
+
+Python • Machine Learning • Streamlit • API  
+
+---
+
+# 📧 Spam Email Detection System
+
+Machine Learning project to classify emails using NLP.
+
+## Highlights
+
+- NLP preprocessing pipeline  
+- Model training and prediction  
+- Real-world dataset  
+
+## Tech Stack
+
+Python • scikit-learn • NLP  
+
+---
+
+# 🧮 QuickSum Counter
+
+🔗 Live Demo: GitHub Pages  
+
+## Highlights
+
+- Real-world productivity tool  
+- Handles financial calculations  
+- Works offline  
+
+## Tech Stack
+
+HTML • CSS • JavaScript  
+
+---
+
+# 📈 Stock Market Simulation (Mesa)
+
+🚧 Work in Progress – GSoC Preparation Project
+
+## Highlights
+
+- Agent-Based Model  
+- Trader Agents  
+- Market Simulation  
+
+## Tech Stack
+
+Python • Mesa  
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+</p>
+
+---
+
+# 🏆 Open Source Goal (GSoC 2026)
+
+My goal is to contribute to:
+
+- Mesa (Agent-Based Modeling)
+- Machine Learning Tools
+- AI Infrastructure
+
+and become a successful **GSoC Contributor**.
+
+---
+
+# 💼 Developer Philosophy
+
+I believe in:
+
+- Learning by building  
+- Writing clean code  
+- Contributing to open source  
+- Solving real-world problems  
+
+---
+
+# 📫 Contact Me
+
+📧 Email  
+**sahilhac11518@gmail.com**
+
+💼 LinkedIn  
+[https://www.linkedin.com/in/sahil-gupta](https://www.linkedin.com/in/sahil-gupta-653bb0345?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+
+💻 GitHub  
+[https://github.com/Sahil-Gupta-AI ](https://github.com/Sahil-Gupta-AI) 
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" />
+</p>
+
+---
+
+# ⭐ Future Goals
+
+- Contribute to Mesa
+- Get selected in GSoC 2026
+- Build advanced AI systems
+- Publish open source ML tools
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
