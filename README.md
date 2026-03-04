@@ -12,8 +12,8 @@ I am a **Software Developer and AI/ML Engineer** passionate about building intel
 
 My primary interests include:
 
-- Agent-Based Modeling (Mesa)
-- Machine Learning Systems
+- Artificial Intelligence (AI)
+- Full-Stack Development
 - Backend Engineering
 - Real-world AI Applications
 
@@ -23,7 +23,7 @@ I focus on building **production-ready projects**, not just tutorials.
 
 # 🎯 Current Focus
 
-- 📊 Stock Market Modeling using Mesa  
+- 📊 Behavioral Stock Market Modeling using Mesa  
 - 🤖 Machine Learning Systems  
 - ⚙️ FastAPI and Backend Architecture  
 - ☁️ Deployment and MLOps  
@@ -112,7 +112,7 @@ HTML • CSS • JavaScript
 
 ---
 
-# 📈 Stock Market Simulation (Mesa)
+# 📈 Behavioral Stock Market Simulation (Mesa)
 
 🚧 Work in Progress – GSoC Preparation Project
 
@@ -131,15 +131,15 @@ Python • Mesa
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahil-Gupta-AI&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahil-Gupta-AI&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil-Gupta-AI&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -147,7 +147,7 @@ Python • Mesa
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahil-Gupta-AI&theme=tokyo-night" />
 </p>
 
 ---
@@ -191,17 +191,18 @@ I believe in:
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Sahil-Gupta-AI&color=blue" />
 </p>
 
 ---
 
 # ⭐ Future Goals
 
-- Contribute to Mesa
+- Contribute to Open Source
 - Get selected in GSoC 2026
 - Build advanced AI systems
 - Publish open source ML tools
+- Build AI Trading System
 
 ---
 
